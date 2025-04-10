@@ -44,7 +44,7 @@ The Power BI report consists of the following dashboards:
 ![Sales Overview](https://github.com/ritausi/Walmart-Sales-Dashboard-project./blob/main/Dashboard%20image/Screenshot%202025-04-10%20195039.png)
 
 ### Sales Trend Analysis
-![Sales Trend Analysis](./Screenshot%202025-04-10%20195407.png)
+![Sales Trend Analysis](https://github.com/ritausi/Walmart-Sales-Dashboard-project./blob/main/Dashboard%20image/Screenshot%202025-04-10%20195407.png)
 
 ### Sales Performance Dashboard
 ![Sales Performance Dashboard](./Screenshot%202025-04-10%20195457.png)
